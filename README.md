@@ -1,5 +1,5 @@
 # E-Commerce_Dashboard
-E-Commerce_PowerBiDashboard
+E-Commerce_PowerBi Dashboard
 
 [Proj_EmanSarhan.pdf](https://github.com/EmanSarhan/E-Commerce_Dashboard/files/15050741/Proj_EmanSarhan.pdf)
 
